@@ -1,0 +1,21 @@
+‏{
+‏  "name": "islamic-shield-token",
+‏  "version": "1.0.0",
+‏  "description": "Islamic Shield (DR3) TON Jetton token",
+‏  "main": "index.js",
+‏  "scripts": {
+‏    "compile": "npx ts-node scripts/compile.ts",
+‏    "deploy": "npx ts-node scripts/deploy.ts"
+‏  },
+‏  "dependencies": {
+‏    "@ton/core": "^0.52.0",
+‏    "@ton/crypto": "^3.2.0",
+‏    "@ton/ton": "^13.9.0",
+‏    "ton-core": "^0.51.0",
+‏    "ton-crypto": "^3.2.0"
+‏  },
+‏  "devDependencies": {
+‏    "ts-node": "^10.9.1",
+‏    "typescript": "^5.2.2"
+‏  }
+‏}
