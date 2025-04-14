@@ -1,0 +1,8 @@
+‏{
+‏  "name": "Islamic Shield",
+‏  "symbol": "DR3",
+‏  "description": "Islamic Shield (DR3) Jetton token on TON blockchain - A digital asset following Islamic financial principles with a 1.5% transaction fee to support ongoing development and operations",
+‏  "decimals": 9,
+‏  "image": "https://raw.githubusercontent.com/islamicshieldt/islamic-shield-token/main/metadata/islamic-shield-logo.png",
+‏  "transaction_fee": "1.5%"
+‏}
